@@ -1,0 +1,9 @@
+{
+  "userId": "6c0b224d-4dc6-41e8-be2a-70c299eb327e",
+  "collectionOfIsbns": [
+    {
+      "isbn": "9781593275846"                                  
+    }
+  ]
+}
+
